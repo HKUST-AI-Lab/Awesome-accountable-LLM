@@ -10,6 +10,7 @@
 ## LLM-generated Text Detection
 
 - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions. [[Github](https://github.com/junchaoIU/LLM-generated-Text-Detection)] [[arXiv](https://arxiv.org/abs/2310.14724)]
+- A Survey on Detection of LLMs-Generated Content. [[Github](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection)] [[arXiv](https://arxiv.org/abs/2310.15654v1)]
 
 ## Interpretability LLM
 
