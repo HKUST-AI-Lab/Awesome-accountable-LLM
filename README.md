@@ -11,6 +11,7 @@
 
 - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions. [[Github](https://github.com/junchaoIU/LLM-generated-Text-Detection)] [[arXiv](https://arxiv.org/abs/2310.14724)]
 - A Survey on Detection of LLMs-Generated Content. [[Github](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection)] [[arXiv](https://arxiv.org/abs/2310.15654v1)]
+- M4: Multi-generator, Multi-domain, and Multi-lingual Black-Box Machine-Generated Text Detection. [[Github](https://github.com/mbzuai-nlp/SemEval2024-task8)] [[arXiv](https://arxiv.org/abs/2305.14902)]
 
 ## Interpretability LLM
 
