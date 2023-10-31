@@ -24,3 +24,5 @@
 - A Survey of Hallucination in Large Foundation Models. [[arXiv](https://arxiv.org/abs/2309.05922)]
 - Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment. [[arXiv](https://arxiv.org/abs/2308.05374)]
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey. [[arXiv](https://arxiv.org/abs/2308.05374)]
+
+> *If you are interested, please check [here](https://jwr8w7hhd3h.feishu.cn/wiki/EqZTwakuoiOFlJkGljtcEzo5n5e?from=from_copylink).*
