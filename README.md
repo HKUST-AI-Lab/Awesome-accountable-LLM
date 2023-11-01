@@ -27,4 +27,8 @@
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey. [[arXiv](https://arxiv.org/abs/2308.05374)]
 - Awesome-LLMs-Evaluation-Papers. [[Github](https://github.com/ICTMCG/Awesome-LLMs-Evaluation-Papers)]
 
+## Agent
+
+- LLM-Agent-Paper-List. [[Github](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+
 > *If you are interested, please check [here](https://jwr8w7hhd3h.feishu.cn/wiki/EqZTwakuoiOFlJkGljtcEzo5n5e?from=from_copylink).*
