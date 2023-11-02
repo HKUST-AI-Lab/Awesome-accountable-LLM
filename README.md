@@ -7,7 +7,9 @@
 - Security
 - ...
 
-## LLM-generated Text Detection
+## Paper
+
+### LLM-generated Text Detection
 
 - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions. [[Github](https://github.com/junchaoIU/LLM-generated-Text-Detection)] [[arXiv](https://arxiv.org/abs/2310.14724)]
 - A Survey on Detection of LLMs-Generated Content. [[Github](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection)] [[arXiv](https://arxiv.org/abs/2310.15654v1)]
@@ -15,11 +17,11 @@
 - Awesome-Machine-Generated-Text. [[Github](https://github.com/ICTMCG/Awesome-Machine-Generated-Text)]
 - LLMDet: A Third Party Large Language Models Generated Text Detection Tool. [[Github](https://github.com/TrustedLLM/LLMDet)] [[arXiv](https://arxiv.org/abs/2305.15004)]
 
-## Interpretability LLM
+### Interpretability LLM
 
 - Explainability for Large Language Models: A Survey. [[arXiv](https://arxiv.org/abs/2309.01029)]
 
-## Security LLM
+### Security LLM
 
 - Constitutional AI: Harmlessness from AI Feedback. [[arXiv](https://arxiv.org/abs/2212.08073)]
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. [[arXiv](https://arxiv.org/abs/2309.01219)]
@@ -28,7 +30,7 @@
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey. [[arXiv](https://arxiv.org/abs/2308.05374)]
 - Awesome-LLMs-Evaluation-Papers. [[Github](https://github.com/ICTMCG/Awesome-LLMs-Evaluation-Papers)]
 
-## Agent
+### Agent
 
 - LLM-Agent-Paper-List. [[Github](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
