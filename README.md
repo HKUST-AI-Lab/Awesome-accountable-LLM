@@ -33,3 +33,11 @@
 - LLM-Agent-Paper-List. [[Github](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
 > *If you are interested, please check [here](https://jwr8w7hhd3h.feishu.cn/wiki/EqZTwakuoiOFlJkGljtcEzo5n5e?from=from_copylink).*
+
+## Competition
+
+### LLM-generated Text Detection
+
+- Kaggle-Detect AI Generated Text：https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
+- ATEC2023：https://www.atecup.cn/matchHomeDetails/100001/100003
+- SemEval2024-task8：https://github.com/mbzuai-nlp/SemEval2024-task8
