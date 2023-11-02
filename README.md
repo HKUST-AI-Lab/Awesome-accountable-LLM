@@ -29,6 +29,7 @@
 - Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment. [[arXiv](https://arxiv.org/abs/2308.05374)]
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey. [[arXiv](https://arxiv.org/abs/2308.05374)]
 - Awesome-LLMs-Evaluation-Papers. [[Github](https://github.com/ICTMCG/Awesome-LLMs-Evaluation-Papers)]
+- Awesome-LLM-Eval. [[Github](https://github.com/onejune2018/Awesome-LLM-Eval)]
 
 ### Agent
 
