@@ -16,6 +16,7 @@
 - M4: Multi-generator, Multi-domain, and Multi-lingual Black-Box Machine-Generated Text Detection. [[Github](https://github.com/mbzuai-nlp/SemEval2024-task8)] [[arXiv](https://arxiv.org/abs/2305.14902)]
 - Awesome-Machine-Generated-Text. [[Github](https://github.com/ICTMCG/Awesome-Machine-Generated-Text)]
 - LLMDet: A Third Party Large Language Models Generated Text Detection Tool. [[Github](https://github.com/TrustedLLM/LLMDet)] [[arXiv](https://arxiv.org/abs/2305.15004)]
+- Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense. [[Github](https://github.com/martiansideofthemoon/ai-detection-paraphrases)] [[arXiv](https://arxiv.org/abs/2303.13408)]
 
 ### Interpretability LLM
 
