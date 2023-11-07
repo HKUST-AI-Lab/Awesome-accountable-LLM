@@ -37,6 +37,10 @@
 
 - LLM-Agent-Paper-List. [[Github](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
+### Other work
+
+- pycorrector is a toolkit for text error correction. [[Github](https://github.com/shibing624/pycorrector)]
+
 > *If you are interested, please check [here](https://jwr8w7hhd3h.feishu.cn/wiki/EqZTwakuoiOFlJkGljtcEzo5n5e?from=from_copylink).*
 
 ## Competition
