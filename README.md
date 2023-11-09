@@ -33,6 +33,7 @@
 - Awesome-LLM-Eval. [[Github](https://github.com/onejune2018/Awesome-LLM-Eval)]
 - Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation. [[Github](https://github.com/Princeton-SysML/Jailbreak_LLM)] [[arXiv](https://arxiv.org/abs/2310.06987)]
 - Must-read Papers on Textual Adversarial Attack and Defense. [[Github](https://github.com/thunlp/TAADpapers)]
+- Awesome-LLM-Safety. [[Github](https://github.com/ydyjya/Awesome-LLM-Safety)]
 
 ### Agent
 
