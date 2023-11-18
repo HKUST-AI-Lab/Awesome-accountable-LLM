@@ -9,6 +9,8 @@
 
 ## Paper
 
+- Awesome-LLM-Survey. [[Github](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)]
+
 ### LLM-generated Text Detection
 
 - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions. [[Github](https://github.com/junchaoIU/LLM-generated-Text-Detection)] [[arXiv](https://arxiv.org/abs/2310.14724)]
