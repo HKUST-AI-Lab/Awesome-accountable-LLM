@@ -19,6 +19,7 @@
 - Awesome-Machine-Generated-Text. [[Github](https://github.com/ICTMCG/Awesome-Machine-Generated-Text)]
 - LLMDet: A Third Party Large Language Models Generated Text Detection Tool. [[Github](https://github.com/TrustedLLM/LLMDet)] [[arXiv](https://arxiv.org/abs/2305.15004)]
 - Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense. [[Github](https://github.com/martiansideofthemoon/ai-detection-paraphrases)] [[arXiv](https://arxiv.org/abs/2303.13408)]
+- Awesome-Machine-Generated-Text. [[Github](https://github.com/ICTMCG/Awesome-Machine-Generated-Text)]
 
 ### Interpretability LLM
 
