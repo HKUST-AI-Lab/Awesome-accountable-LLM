@@ -22,6 +22,7 @@
 - Awesome-Machine-Generated-Text. [[Github](https://github.com/ICTMCG/Awesome-Machine-Generated-Text)]
 - fake-news-detection. [[Github](https://github.com/ICTMCG/fake-news-detection)]
 - OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples. [[Github](https://github.com/ryuryukke/OUTFOX)] [[arXiv](https://arxiv.org/abs/2307.11729)]
+- Adapting Fake News Detection to the Era of Large Language Models. [[arXiv](https://arxiv.org/abs/2311.04917v1)]
 
 ### Interpretability LLM
 
