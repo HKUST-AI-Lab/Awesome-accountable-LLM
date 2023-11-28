@@ -45,6 +45,10 @@
 
 - LLM-Agent-Paper-List. [[Github](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
+### Domains LLM
+
+- https://github.com/MetaGLM/FinGLM
+
 ### Other work
 
 - pycorrector is a toolkit for text error correction. [[Github](https://github.com/shibing624/pycorrector)]
